@@ -8,6 +8,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 1. Clone the repository
 2. Run `pnpm install` to install the dependencies
-3. Run `pnpm run` to start the server
+3. Run `pnpm dev` to start the development server
 4. Open your web browser and navigate to `http://localhost:3000/`
 5. Follow the instructions in the tutorial to complete the exercises
